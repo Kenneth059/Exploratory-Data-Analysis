@@ -1,2 +1,7 @@
 # Exploratory-Data-Analysis
-Exploratory Data Analysis on test-set. Visualizing and analyzing distributions, correlations and patterns to uncover insights.
+### Overview
+This project is an exploratory data analysis on 'test-set' dataset. The project aims at uncovering hidden patterns, trends and relationships between variables in the data using statistical and visual methods.
+### Information About Dataset
+The test-set dataset is about the spending habits of customers of a certain company.
+### Attributes
+CustomerID
