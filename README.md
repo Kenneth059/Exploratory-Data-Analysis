@@ -5,7 +5,11 @@ This project is an exploratory data analysis on 'test-set' dataset. The project 
 The test-set dataset is about the spending habits of customers of a certain company.
 ### Attributes
 CustomerID
+
 Married 1. Yes,2. No
+
 Age 1. 18+
+
 Graduated 1. Yes,2. No
+
 Profession
