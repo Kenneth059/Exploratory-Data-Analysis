@@ -10,16 +10,16 @@ Gender 1. Male,2. Female
 
 Married 1. Yes,2. No
 
-Age 18-89
+Age (18-89)
 
 Graduated 1. Yes,2. No
 
 Profession 1.Artist, 2.Engineer, 3.Healthcare, 4.Executive, 5.Marketing, 6.Doctor, 7.lawyer, 8.Entertainment, 9.Homewoker
 
-Work Experience 0.0-14.0
+Work Experience (0.0-14.0)
 
 Spendingscore 1.High, 2.Low, 3.Average
 
-Family size 1-9
+Family size (1-9)
 
 Category  1.Category 1-7
